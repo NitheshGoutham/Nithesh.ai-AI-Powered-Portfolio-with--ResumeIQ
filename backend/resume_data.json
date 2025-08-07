@@ -1,0 +1,21 @@
+{
+  "name": "Nithesh Goutham",
+  "location": "Chennai, India",
+  "experience": [
+    {
+      "company": "NTT DATA",
+      "role": "Technical Graduate Trainee – Generative AI",
+      "description": "Worked on Smart AgentOps project with LangChain, RAG, FastAPI, etc.",
+      "duration": "Jul 2025 – Present"
+    },
+    {
+      "company": "Atos",
+      "role": "System Engineer – AI Chatbot Analyst",
+      "description": "Built dashboards, validated data pipelines, and used SQL/Python/Power BI, MLOps.",
+      "duration": "2022 – 2024"
+    }
+  ],
+  "skills": ["Python", "FastAPI", "LangChain", "Streamlit", "Power BI"],
+  "certifications": ["Microsoft Azure", "GUVI Data Science Master"],
+  "projects": ["YouTube Data Harvesting", "Singapore HDB Price Prediction"]
+}
