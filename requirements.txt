@@ -1,10 +1,8 @@
-streamlit 
-fastapi 
-uvicorn 
-pandas 
-scikit-learn 
-spacy 
-faiss-cpu 
-requests
-spacy
-en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
+streamlit==1.36.0
+fastapi==0.110.0
+uvicorn==0.29.0
+pandas==2.2.2
+scikit-learn==1.4.2
+spacy==3.7.4
+faiss-cpu==1.8.0
+requests==2.32.3
