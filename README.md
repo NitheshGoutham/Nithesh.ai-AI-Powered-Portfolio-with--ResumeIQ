@@ -4,7 +4,7 @@ Welcome to my AI-enhanced Streamlit-based personal portfolio!
 This platform goes beyond a typical resume: it features dynamic sections, a static Resume Q&A chatbot powered by structured JSON data and Gemini API integration. It’s lightweight, accurate (no hallucinations), and demonstrates my Generative AI, Python, and data engineering skills.
 
 **Live Demo**
-Try it here: [https://nithesh-ai-portfolio.onrender.com](https://nithesh-ai-portfolio.onrender.com)
+Try it here: [https://nithesh-ai-ai-powered-portfolio-with.onrender.com](https://nithesh-ai-ai-powered-portfolio-with.onrender.com)
 
 ---
 
@@ -98,3 +98,4 @@ Location: Chennai, India
 Email: nitheshgoutham2000@gmail.com   
 LinkedIn: https://linkedin.com/in/nitheshgoutham   
 Portfolio: https://nithesh-ai-portfolio.onrender.com   
+
