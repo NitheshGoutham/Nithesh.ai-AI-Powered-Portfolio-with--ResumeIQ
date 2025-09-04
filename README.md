@@ -33,18 +33,18 @@ This project features:
 ## Project Structure
 
 nithesh_ai_portfolio/
-├── app.py                     # Streamlit main app
-├── resume_data.json           # Structured resume data
-├── sections/                  # Modular portfolio sections
-│   ├── about.py
-│   ├── skills.py
-│   ├── projects.py
-│   ├── certifications.py
-│   ├── education.py
-│   ├── resume_qa.py           # Q&A chatbot section
-│   └── ml_playground.py
-├── genai_utils.py             # Gemini API integration
-└── requirements.txt           # Python dependencies
+├── app.py                     # Streamlit main app   
+├── resume_data.json           # Structured resume data   
+├── sections/                  # Modular portfolio sections   
+│   ├── about.py    
+│   ├── skills.py   
+│   ├── projects.py   
+│   ├── certifications.py   
+│   ├── education.py   
+│   ├── resume_qa.py           # Q&A chatbot section   
+│   └── ml_playground.py   
+├── genai_utils.py             # Gemini API integration   
+└── requirements.txt           # Python dependencies    
 
 
 ---
@@ -93,8 +93,8 @@ nithesh_ai_portfolio/
 This project is for educational and personal branding purposes.
 
 ## Contact
-Author: Nithesh Goutham M
-Location: Chennai, India
-Email: nitheshgoutham@email.com
-LinkedIn: https://linkedin.com/in/nitheshgoutham
-Portfolio: https://nithesh-ai-portfolio.onrender.com
+Author: Nithesh Goutham M   
+Location: Chennai, India   
+Email: nitheshgoutham2000@gmail.com   
+LinkedIn: https://linkedin.com/in/nitheshgoutham   
+Portfolio: https://nithesh-ai-portfolio.onrender.com   
