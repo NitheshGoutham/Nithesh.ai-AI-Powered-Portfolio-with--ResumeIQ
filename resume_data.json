@@ -1,0 +1,98 @@
+{
+  "name": "Nithesh Goutham M",
+  "title": "AI Engineer",
+  "contact": {
+    "email": "nitheshgoutham1104@gmail.com",
+    "phone": "+91 9566679191",
+    "location": "Chennai, India",
+    "portfolio": "Portfolio",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "profile": "AI and Data professional with 3+ years of experience in Generative AI, data analytics, and IT operations. Skilled in Python, SQL, and analytical libraries like Pandas and NumPy for automation and data processing. Hands-on expertise in Retrieval-Augmented Generation (RAG), prompt engineering, and LLM observability to deliver accurate and context-aware enterprise solutions. Experienced in building dashboards with Power BI and Excel while ensuring compliance, efficiency, and measurable improvements in AI workflows.",
+  "experience": [
+    {
+      "company": "NTT DATA Inc",
+      "role": "AI Engineer - Generative AI",
+      "duration": "Apr 2025 – Present",
+      "location": "Pune, India",
+      "description": [
+        "Designed and managed agentic AI solutions using Generative AI frameworks, LLM observability, and backend orchestration.",
+        "Built and optimized RAG pipelines using LangChain, FAISS, and OpenAI for enterprise contextual grounding.",
+        "Maintained prompt versioning workflows focusing on version control, refinement, and success tracking.",
+        "Implemented monitoring endpoints in Django backend to capture latency, token usage, and response quality.",
+        "Collaborated with RAGOps, PromptOps, and Tracing teams for real-time pipeline observability."
+      ]
+    },
+    {
+      "company": "Ramco Systems",
+      "role": "Software Engineer - Data Validation",
+      "duration": "Dec 2024 – Feb 2025",
+      "location": "Chennai, India",
+      "description": [
+        "Validated payroll data using SQL queries and automated consistency checks.",
+        "Developed Python-based reporting tools for anomaly detection and auditing.",
+        "Created frameworks to compare and audit payroll data across periods."
+      ]
+    },
+    {
+      "company": "Atos Global IT Solutions",
+      "role": "Systems Engineer – AI Chatbot Analyst",
+      "duration": "Jun 2022 – Sep 2024",
+      "location": "Chennai, India",
+      "description": [
+        "Enhanced ELIZA AI chatbot to automate L1 IT support using GPT-3.5 and RAG.",
+        "Analyzed ServiceNow logs to improve conversation flows and intent detection.",
+        "Built Power BI dashboards to track chatbot performance and optimize resolution rate.",
+        "Improved self-service resolution rate by ~25%, reducing IT ticket volumes."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Business Administration (MBA) - HRM",
+      "institution": "Pondicherry University - PUDDE",
+      "duration": "Oct 2022 – Oct 2024",
+      "location": "Puducherry, India",
+      "cgpa": "8.1/10"
+    },
+    {
+      "degree": "Bachelor of Engineering (B.E) - ECE",
+      "institution": "Rajalakshmi Engineering College",
+      "duration": "Aug 2018 – May 2022",
+      "location": "Chennai, India",
+      "cgpa": "8.2/10"
+    }
+  ],
+  "skills": [
+    "SQL", "Excel", "Power BI", "Tableau", "Python", "Pandas", "NumPy",
+    "ETL", "Data Validation", "Automation", "API Integration",
+    "Generative AI", "Prompt Engineering", "LangChain", "OpenAI",
+    "Hugging Face", "Transformers", "ServiceNow", "MLOps",
+    "Knowledge Graphs", "Azure"
+  ],
+  "projects": [
+    {
+      "name": "Sentinel-2 Data Processing for Pichavaram Mangrove Forest",
+      "key_skills": ["Python", "Satellite Image Processing", "CNN", "TensorFlow/Keras"],
+      "summary": "Achieved 96% accuracy in classifying vegetation types using CNN models on Sentinel-2 satellite imagery."
+    },
+    {
+      "name": "Singapore Resale Flat Price Prediction",
+      "key_skills": ["Python", "EDA", "Machine Learning", "Streamlit"],
+      "summary": "Built a regression model achieving R² of 0.9997 for HDB flat price prediction, deployed via Streamlit."
+    }
+  ],
+  "certifications": [
+    "Certified Professional in Advanced Programming - IITM Pravartak (Jan 2025)",
+    "Microsoft Certified: Azure AI Engineer Associate (Jul 2025)",
+    "Microsoft Certified: Azure Data Scientist Associate (Jun 2025)",
+    "Microsoft Certified: Azure Administrator Associate (Jul 2023)",
+    "Microsoft Certified: Security, Compliance, and Identity Fundamentals (Nov 2022)",
+    "Microsoft Certified: Virtual Desktop Specialty (Jul 2023)",
+    "Master Data Scientist - GUVI Geek Network, IITM (Oct 2024)",
+    "Microsoft Certified: Azure Data Fundamentals (Dec 2022)",
+    "Microsoft Certified: Azure Fundamentals (Nov 2022)",
+    "Microsoft 365 Certified: Fundamentals (Dec 2022)"
+  ]
+}
