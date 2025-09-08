@@ -2,7 +2,8 @@ import sys
 import os
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../../")))
-from ml_demos.resume_keyword_extractor import extract_keywords
+from sections.resume_keyword_extractor import extract_keywords
+
 
 
 import streamlit as st 
@@ -35,3 +36,4 @@ def run():
         st.subheader("📊 Overall Match Score")
         st.progress(result["match_percentage"] / 100)
         st.info(f"Match Score: **{result['match_percentage']}%** with the provided JD.")
+
